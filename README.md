@@ -31,7 +31,7 @@ FakeNewsDetector/
 
 ## **⚙️ Installation & Setup**
 
-### **1️⃣ Clone the repository or copy files**
+### **Clone the repository**
 
-git clone <your-repo-url>
-cd FakeNewsDetector
+git clone (https://github.com/guptayuvraj0599/FakeNewsDetectorSystem)
+
